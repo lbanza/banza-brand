@@ -66,7 +66,7 @@ Folha (1600×900) com o logótipo sobre fundo claro e escuro, o ícone e os favi
 
 ### Marcas dos relatórios
 
-Ícones de linha e lockups dos cinco relatórios — briefing, cve, tendencias, pesquisa e algarve — para fundo escuro e para fundo claro. Cada marca está em SVG, PNG e PNG a 2× (60 ficheiros em `logo/relatorios/`).
+Ícones de linha e lockups dos cinco relatórios — briefing, cve, tendencias, pesquisa e algarve — e do sublogo Executive Exposure, para fundo escuro e para fundo claro. Cada marca está em SVG, PNG e PNG a 2× (72 ficheiros em `logo/relatorios/`).
 
 Cada ficheiro está disponível em:
 
@@ -85,6 +85,7 @@ Nos cabeçalhos de correio eletrónico usa-se o lockup para fundo escuro a 2×:
 | `tendencias-lockup-dark@2x.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/tendencias-lockup-dark@2x.png |
 | `pesquisa-lockup-dark@2x.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/pesquisa-lockup-dark@2x.png |
 | `algarve-lockup-dark@2x.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/algarve-lockup-dark@2x.png |
+| `executive-exposure-lockup-dark@2x.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-lockup-dark@2x.png |
 
 #### Briefing
 
@@ -170,6 +171,23 @@ Nos cabeçalhos de correio eletrónico usa-se o lockup para fundo escuro a 2×:
 | `algarve-icon-light.svg` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/algarve-icon-light.svg |
 | `algarve-icon-light.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/algarve-icon-light.png |
 | `algarve-icon-light@2x.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/algarve-icon-light@2x.png |
+
+#### Executive Exposure
+
+| Ficheiro | URL |
+| --- | --- |
+| `executive-exposure-lockup-dark.svg` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-lockup-dark.svg |
+| `executive-exposure-lockup-dark.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-lockup-dark.png |
+| `executive-exposure-lockup-dark@2x.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-lockup-dark@2x.png |
+| `executive-exposure-lockup-light.svg` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-lockup-light.svg |
+| `executive-exposure-lockup-light.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-lockup-light.png |
+| `executive-exposure-lockup-light@2x.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-lockup-light@2x.png |
+| `executive-exposure-icon-dark.svg` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-icon-dark.svg |
+| `executive-exposure-icon-dark.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-icon-dark.png |
+| `executive-exposure-icon-dark@2x.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-icon-dark@2x.png |
+| `executive-exposure-icon-light.svg` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-icon-light.svg |
+| `executive-exposure-icon-light.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-icon-light.png |
+| `executive-exposure-icon-light@2x.png` | https://cdn.jsdelivr.net/gh/lbanza/banza-brand@main/logo/relatorios/executive-exposure-icon-light@2x.png |
 
 ## Direitos de autor
 
